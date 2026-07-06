@@ -19,7 +19,7 @@ This project is the first phase of my Music Engineering Journey. Its primary goa
 None
 
 ➡️ **Next Phase**  
-Music Library Manager
+[Music Library Manager]()
 
 > **Note**
 >
