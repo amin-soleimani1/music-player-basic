@@ -1,7 +1,7 @@
 # 🎵 موزیک پلیر (نسخه پایه)
 
 > 📌 بخشی از مسیر یادگیری مهندسی نرم‌افزار موسیقی
-> https://github.com/amin-soleimani1/music-engineering-journey
+> [مسیر توسعه](https://github.com/amin-soleimani1/music-engineering-journey)
 
 🌐 **زبان:** فارسی | [English](README.md)
 
