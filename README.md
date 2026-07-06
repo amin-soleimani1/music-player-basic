@@ -19,7 +19,7 @@ This project is the first phase of my Music Engineering Journey. Its primary goa
 None
 
 ➡️ **Next Phase**  
-[Music Library Manager](https://github.com/amin-soleimani1/Music-Library-Manager.git/blob/main/README.md)
+[Music Library Manager](https://github.com/amin-soleimani1/Music-Library-Manager/blob/main/README.md)
 
 > **Note**
 >
