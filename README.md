@@ -1,7 +1,7 @@
 # 🎵 Music Player Basic
 
 > 📌 Part of the Music Engineering Journey
-> https://github.com/amin-soleimani1/music-engineering-journey
+> [Roadmap](https://github.com/amin-soleimani1/music-engineering-journey)
 
 A simple desktop music player built with Python and CustomTkinter.
 
