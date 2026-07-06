@@ -90,11 +90,9 @@ Music Player Basic/
 ├── ui/                      # User interface
 │   └── main_window.py       # Main application window
 │
-├── assets/                  # Static resources
-│   ├── icons/               # Application icons
-│   └── images/              # Album artwork and UI images
-│
-└── music_files/             # Sample music directory
+└── assets/                  # Static resources
+    ├── icons/               # Application icons
+    └── images/              # Album artwork and UI images
 ```
 
 ---
