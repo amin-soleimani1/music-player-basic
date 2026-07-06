@@ -19,7 +19,7 @@ This project is the first phase of my Music Engineering Journey. Its primary goa
 None
 
 ➡️ **Next Phase**  
-[Music Library Manager]()
+[Music Library Manager](https://github.com/amin-soleimani1/Music-Library-Manager.git/blob/main/README.md)
 
 > **Note**
 >
@@ -109,7 +109,6 @@ This project helped me learn:
 - Project organization
 - File handling
 - Playlist management
-- Packaging desktop applications with PyInstaller
 
 This project laid the foundation for the next phase of the journey, where I redesigned the application using a database, improved architecture, and cleaner project organization.
 
